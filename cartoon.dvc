@@ -1,0 +1,6 @@
+outs:
+- md5: 911dbf2f55bb63d80d98882f441b9de0.dir
+  size: 70979
+  nfiles: 5
+  hash: md5
+  path: cartoon
